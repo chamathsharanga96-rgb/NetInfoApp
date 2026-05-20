@@ -1,0 +1,6 @@
+{
+  "name": "NET INFO",
+  "description": "Premium network monitor for Sri Lanka: Signal strength metrics (RSRP, RSRQ, SINR), high-speed speed test tool, and separate WiFi/Mobile usage monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
